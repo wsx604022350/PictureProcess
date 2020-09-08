@@ -6,3 +6,5 @@ Some programs are  used to process pictures by traditional methods.
 Hello world
 
 求实 创新
+
+爱我中国
